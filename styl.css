@@ -1,0 +1,34 @@
+*
+{
+margin: 0 auto;
+
+padding: auto;
+}
+
+#footer
+{
+height:150px; 
+background:grey;
+}
+ 
+#footer p
+{
+text-align:center;
+line-height:10px;
+padding-top: 30px;
+}
+#kol
+{ 
+margin:0;
+padding:0;
+ }
+h4 p
+{
+padding-left:40px;
+padding-top:20px;
+letter-spacing:8px;
+font-style:italic;
+color:blue;
+line-height:90px;
+
+} 
